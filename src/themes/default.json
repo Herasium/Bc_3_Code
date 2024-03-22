@@ -1,0 +1,68 @@
+{
+    "meta": {
+        "name": "Default Blockcoin Theme",
+        "id": "default",
+        "author": "Herasium",
+        "version": 1
+    },
+    "data": {
+        "background": {
+          "color": "black",
+          "elipse-color": ["#B803FF", "#0771FF"],
+          "blur": "136.5px"
+        },
+        "text": {
+          "font": "Poppins",
+          "font-code": "Poppins",
+          "color": "white",
+          "size": ["16px", "24px", "32px", "48px", "64px", "300px"],
+          "font-weight": 400,
+          "font-weight-light": 300,
+          "font-weight-bold": 700,
+          "border": "none",
+          "button-decoration": "underline",
+          "link-cursor": "pointer",
+          "link-decoration": "none"
+        },
+        "badge": {
+          "color": "white",
+          "border-radius": "none",
+          "border": "none"
+        },
+        "post": {
+          "border": "solid white 1px",
+          "border-radius": "16px",
+          "background": "black"
+        },
+        "comment": {
+          "border": "solid white 1px",
+          "border-radius": "16px",
+          "background": "black"
+        },
+        "navbar": {
+          "background": "none",
+          "blur": "10px"
+        },
+        "global": {
+          "border-radius": ["16px", "32px", "64px"],
+          "border": "solid white 1px",
+          "background": "none",
+          "z-index": [0, 10]
+        },
+        "notification": {
+          "background": "none",
+          "border": "solid white 1px",
+          "border-radius": "16px",
+          "icon-color": "white"
+        },
+        "new": {
+          "background":"white",
+          "color":"black",
+          "border":"none"
+        },
+        "logo": {
+          "url":"https://blockcoin.social/assets/logo.png"
+        }
+      }
+      
+}

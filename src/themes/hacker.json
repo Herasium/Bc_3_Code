@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "name": "Hacker Theme",
+        "id": "hacker",
+        "author": "Herasium",
+        "version": 1
+    },
+    "data": {
+        "background": {
+          "color": "black",
+          "elipse-color": ["black", "black"],
+          "blur": "136.5px"
+        },
+        "text": {
+          "font": "DM Mono",
+          "font-code": "DM+Mono",
+          "color": "#01FF18",
+          "size": ["16px", "24px", "32px", "48px", "64px", "300px"],
+          "font-weight": 400,
+          "font-weight-light": 300,
+          "font-weight-bold": 700,
+          "border": "none",
+          "button-decoration": "underline",
+          "link-cursor": "pointer",
+          "link-decoration": "none"
+        },
+        "badge": {
+          "color": "#01FF18",
+          "border-radius": "none",
+          "border": "none"
+        },
+        "post": {
+          "border": "none",
+          "border-radius": "16px",
+          "background": "none"
+        },
+        "comment": {
+          "border": "none",
+          "border-radius": "16px",
+          "background": "none"
+        },
+        "navbar": {
+          "background": "none",
+          "blur": "10px"
+        },
+        "global": {
+          "border-radius": ["16px", "32px", "64px"],
+          "border": "none",
+          "background": "none",
+          "z-index": [0, 10]
+        },
+        "notification": {
+          "background": "none",
+          "border": "none",
+          "border-radius": "16px",
+          "icon-color": "#01FF18"
+        }
+      }
+      
+}
